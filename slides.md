@@ -20,7 +20,5 @@ class: title-slide
 <a href="https://www.github.com/thomasjpfan" target="_blank"><span class="icon icon-github icon-left"></span></a>
 <a href="https://www.twitter.com/thomasjpfan" target="_blank"><span class="icon icon-twitter"></span></a>
 
-![:scale 30%](images/labs-logo.jpg)
-
 <a class="this-talk-link", href="https://github.com/thomasjpfan/sklearn-set_output-material" target="_blank">
 This talk on Github: thomasjpfan/sklearn-set_output-material</a>
