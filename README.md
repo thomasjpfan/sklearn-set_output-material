@@ -1,4 +1,4 @@
-# Dive into scikit-learn's `set_output` API
+# Pandas Out with scikit-learn's set_output API
 
 ## Running the notebooks
 

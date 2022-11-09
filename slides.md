@@ -1,8 +1,8 @@
-title: Pandas output with scikit-learn's set_output API
+title: Pandas Out with scikit-learn's set_output API
 use_katex: False
 class: title-slide
 
-# Pandas Out in scikit-learn's set_output API
+# Pandas Out with scikit-learn's set_output API
 
 .g.g-center[
 .g-6[
