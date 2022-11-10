@@ -24,3 +24,7 @@ class: title-slide
 
 <a class="this-talk-link", href="https://github.com/thomasjpfan/sklearn-set_output-material" target="_blank">
 This talk on Github: thomasjpfan/sklearn-set_output-material</a>
+
+---
+
+![](images/pr.jpg)
