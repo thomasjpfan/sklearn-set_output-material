@@ -1,5 +1,4 @@
---extra-index-url https://pypi.anaconda.org/scipy-wheels-nightly/simple
-scikit-learn>=1.2.dev0
+scikit-learn>=1.2
 jupyterlab~=3.4
 pandas~=1.5
 matplotlib~=3.6
