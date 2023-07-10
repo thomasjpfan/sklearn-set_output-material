@@ -21,6 +21,7 @@ cd sklearn-set_output-material
 pip install -r requirements.txt
 ```
 
+![](https://raw.githubusercontent.com/pyodide/pyodide/master/docs/_static/img/pyodide-logo.png)
 3. Run Jupyter lab:
 
 ```bash
