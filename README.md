@@ -1,5 +1,9 @@
 # Pandas Out with scikit-learn's set_output API
 
+## Running with jupyter lite
+
+Run in your browser with [here](https://thomasjpfan.github.io/sklearn-set_output-material/lab/index.html)!
+
 ## Running the notebooks
 
 0. Create a virtual environment with [conda](https://docs.conda.io/projects/conda/en/latest/index.html) or [venv](https://docs.python.org/3/library/venv.html).
