@@ -1,0 +1,6 @@
+jupyterlite-core==0.1.0
+jupyterlab~=3.5.1
+jupyterlite-pyodide-kernel==0.0.6
+jupyterlite-javascript-kernel==0.1.0b21
+jupyterlab-night
+ipympl>=0.8.2
